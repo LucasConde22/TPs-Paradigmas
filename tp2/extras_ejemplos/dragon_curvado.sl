@@ -1,0 +1,4 @@
+90
+cFX
+X X+YF+
+Y -FX-Y

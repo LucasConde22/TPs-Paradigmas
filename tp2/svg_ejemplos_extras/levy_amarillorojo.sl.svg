@@ -1,0 +1,18 @@
+<svg viewBox="-50.000 -70.000 50.000 80.000" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.000" y1="0.000" x2="-0.000" y2="10.000" stroke-width="1" stroke="yellow" />
+<line x1="-0.000" y1="10.000" x2="-10.000" y2="10.000" stroke-width="1" stroke="red" />
+<line x1="-10.000" y1="10.000" x2="-20.000" y2="10.000" stroke-width="1" stroke="yellow" />
+<line x1="-20.000" y1="10.000" x2="-20.000" y2="-0.000" stroke-width="1" stroke="red" />
+<line x1="-20.000" y1="-0.000" x2="-30.000" y2="-0.000" stroke-width="1" stroke="yellow" />
+<line x1="-30.000" y1="-0.000" x2="-30.000" y2="-10.000" stroke-width="1" stroke="red" />
+<line x1="-30.000" y1="-10.000" x2="-30.000" y2="-20.000" stroke-width="1" stroke="yellow" />
+<line x1="-30.000" y1="-20.000" x2="-20.000" y2="-20.000" stroke-width="1" stroke="red" />
+<line x1="-20.000" y1="-20.000" x2="-30.000" y2="-20.000" stroke-width="1" stroke="yellow" />
+<line x1="-30.000" y1="-20.000" x2="-30.000" y2="-30.000" stroke-width="1" stroke="red" />
+<line x1="-30.000" y1="-30.000" x2="-30.000" y2="-40.000" stroke-width="1" stroke="yellow" />
+<line x1="-30.000" y1="-40.000" x2="-20.000" y2="-40.000" stroke-width="1" stroke="red" />
+<line x1="-20.000" y1="-40.000" x2="-20.000" y2="-50.000" stroke-width="1" stroke="yellow" />
+<line x1="-20.000" y1="-50.000" x2="-10.000" y2="-50.000" stroke-width="1" stroke="red" />
+<line x1="-10.000" y1="-50.000" x2="0.000" y2="-50.000" stroke-width="1" stroke="yellow" />
+<line x1="0.000" y1="-50.000" x2="0.000" y2="-40.000" stroke-width="1" stroke="red" />
+</svg>

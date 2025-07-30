@@ -1,0 +1,1 @@
+Algunos ejemplos fueron hechos antes de realizar una pequeña mejora en el seteo de márgenes (como se puede observar, anteriormente el márgen inferior era nulo).
